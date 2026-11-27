@@ -1,4 +1,4 @@
-# 🐍 Snake Tail
+# Snake Tail
 
 A classic Snake Game built using **Python** and the **Turtle Graphics** module.
 
@@ -75,10 +75,10 @@ Through this project, I practised:
 - File Handling
 - Managing game states
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 
 Developed while learning from Instructor Angela Yu's **100 Days of Code: The Complete Python Pro Bootcamp** on Udemy, with additional features and modifications.
 
 ---
 
-*Built with Python and lots of learning!* 🐍
+*Built with Python and lots of learning!* 
