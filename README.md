@@ -23,7 +23,7 @@ This project was developed as part of my learning journey through Instructor Ang
 ## How to Play
 
 | Key        | Action |
--------------------------------
+|----|-----|
 | Arrow Keys | Move the snake |
 
 | Space      | Start the game |
