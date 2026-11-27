@@ -25,7 +25,7 @@ This project was developed as part of my learning journey through Instructor Ang
 | Key        | Action |
 |----|-----|
 | Arrow Keys | Move the snake |
-|----|----|
+|||
 | Space      | Start the game |
 
 | R          | Restart the game |
